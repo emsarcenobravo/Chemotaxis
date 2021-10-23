@@ -61,7 +61,7 @@ class Bacteria {
 
 
 Bacteria bob;
-Bacteria [] balloon = new Bacteria[30];
+Bacteria [] balloon = new Bacteria[50];
 void setup() {
   size (600, 600);
   noStroke();
